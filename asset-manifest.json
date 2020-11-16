@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/poketimes/static/css/main.0bea64e7.chunk.css",
-    "main.js": "/poketimes/static/js/main.40347c17.chunk.js",
-    "main.js.map": "/poketimes/static/js/main.40347c17.chunk.js.map",
+    "main.js": "/poketimes/static/js/main.403740e6.chunk.js",
+    "main.js.map": "/poketimes/static/js/main.403740e6.chunk.js.map",
     "runtime-main.js": "/poketimes/static/js/runtime-main.125d96c9.js",
     "runtime-main.js.map": "/poketimes/static/js/runtime-main.125d96c9.js.map",
-    "static/js/2.775f6335.chunk.js": "/poketimes/static/js/2.775f6335.chunk.js",
-    "static/js/2.775f6335.chunk.js.map": "/poketimes/static/js/2.775f6335.chunk.js.map",
+    "static/js/2.59d47fd3.chunk.js": "/poketimes/static/js/2.59d47fd3.chunk.js",
+    "static/js/2.59d47fd3.chunk.js.map": "/poketimes/static/js/2.59d47fd3.chunk.js.map",
     "index.html": "/poketimes/index.html",
     "static/css/main.0bea64e7.chunk.css.map": "/poketimes/static/css/main.0bea64e7.chunk.css.map",
-    "static/js/2.775f6335.chunk.js.LICENSE.txt": "/poketimes/static/js/2.775f6335.chunk.js.LICENSE.txt",
+    "static/js/2.59d47fd3.chunk.js.LICENSE.txt": "/poketimes/static/js/2.59d47fd3.chunk.js.LICENSE.txt",
     "static/media/pokeball.05e5662d.png": "/poketimes/static/media/pokeball.05e5662d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.125d96c9.js",
-    "static/js/2.775f6335.chunk.js",
+    "static/js/2.59d47fd3.chunk.js",
     "static/css/main.0bea64e7.chunk.css",
-    "static/js/main.40347c17.chunk.js"
+    "static/js/main.403740e6.chunk.js"
   ]
 }
